@@ -1,5 +1,6 @@
 # XAL
 My REPO!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XAL-XAL)](https://github.com/anuraghazra/github-readme-stats)
+![XAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=XAL-XAL&show_icons=true&theme=synthwave)
+
 
